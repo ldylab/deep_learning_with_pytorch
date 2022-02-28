@@ -3,16 +3,16 @@
 
 ## Pytorch模板
 主要是把Pytorch开发过程中一些常见操作框架化，便于自己的快速开发，目前已经实现对于数据集、model模型、TensorBoard、常用可视化工具等一些的封装，用来开发一些基础网络可以非常快速做验证。
-- 模板地址：
+- 模板地址：[Github](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_structure)
 - brief introduce：[模板比较详细的介绍](https://ldylab.cc/2022/02/28/Pytorch_template/)
 
 ## 基于Pytorch的相关基础模型的开发
 主要是自己在学习网络过程中阅读论文所复现的一些模型，个人目前主要还是比较集中在目标检测识别这一方向中，后续会继续「读论文-自己造轮子-复现相关方向论文」，希望可以进一步熟悉Pytorch框架，并能够用通俗易懂的语言描述论文的思想框架并将其思想可视化，并最终能提出自己的一些东西，目前已经完成基于CiFar10数据集的分类网络，后续会继续完善笔记和其他模型：
-- LeNet[代码](https://ldylab.cc/2022/02/28/Pytorch_template/)；
-- AlexNet[代码](https://ldylab.cc/2022/02/28/Pytorch_template/)；
-- VGGNet[代码](https://ldylab.cc/2022/02/28/Pytorch_template/)；
-- ResNet[代码](https://ldylab.cc/2022/02/28/Pytorch_template/)[笔记：ResNet可视化过程](https://ldylab.cc/2022/02/28/ResNet34_Visual/)；
-- CotNet[代码](https://ldylab.cc/2022/02/28/Pytorch_template/)；
+- LeNet：[代码](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_template)；
+- AlexNet：[代码](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_template)；
+- VGGNet：[代码](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_template)；
+- ResNet：[代码](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_template)，[笔记：ResNet可视化过程](https://ldylab.cc/2022/02/28/ResNet34_Visual/)；
+- CotNet：[代码](https://github.com/ldylab/deep_learning_with_pytorch/tree/main/pytorch_basic_template)；
 
 项目所使用的环境为：
 - CUDA 10.0/10.2；
