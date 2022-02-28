@@ -21,7 +21,7 @@
 - Pytorch 1.2~1.7；
   
 在项目代码中，`options.py`中选择模型、数据集，并设置参数（Batch_size、epoch等），并运行：
-```
+```python
 python train.py # 训练模型
 python eval.py # 测试模型，并其结果可视化
 ```
