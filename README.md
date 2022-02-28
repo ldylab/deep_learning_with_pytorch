@@ -1,5 +1,5 @@
 # deep_learning_with_pytorch
- 自己学习Pytorch所学习构建的一些网络和模板
+ 自己学习Pytorch时构建的一些网络和模板
 
 ## Pytorch模板
 主要是把Pytorch开发过程中一些常见操作框架化，便于自己的快速开发，目前已经实现对于数据集、model模型、TensorBoard、常用可视化工具等一些的封装，用来开发一些基础网络可以非常快速做验证。
